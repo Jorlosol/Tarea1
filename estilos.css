@@ -54,7 +54,7 @@ body{ background: #FAF3DD }
 	padding: 10px;
 	position: absolute;
 	left: 448px;
-	top: 250px;
+	top: 350px;
 }
 
 #foto3
@@ -80,6 +80,18 @@ body{ background: #FAF3DD }
 
 	float: left;
 	margin: 40px 40px 150px
+}
+
+#mainfooter
+{
+
+	float:left;
+}
+
+#articlefooter
+{
+
+	float:left;
 }
 
 
