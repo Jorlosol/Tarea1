@@ -1,0 +1,71 @@
+
+#header
+{
+
+	text-align:center;
+	width: 900px;
+}
+
+h1
+{
+
+	color:#7183bc;
+}
+
+nav ul li
+{
+
+	display:inline-block;
+	margin-right: 20px;
+}
+
+nav ul li a
+{
+
+	text-decoration:none;
+	color: #1d1d1d;
+
+}
+
+.principal
+{
+
+	text-align:center;
+	width: 900px;
+}
+
+.Seccion-Cuerpo p
+{
+	display: inline-block;
+	width: 300px;
+	background: #FAF3DD;
+	margin:20px;
+	padding: 10px;
+	border: 10px solid #68B0AB;
+
+}
+
+.Seccion-Fotos p
+{
+
+	display: inline-block;
+	margin-right:30px;
+}
+
+.main-aside
+{
+
+	float: right;
+	position: relative;
+	bottom: 1200px;
+	background-color: #5fee79;
+	padding: 20px
+	
+}
+
+#mainfooter
+{
+	text-align:center;
+}
+
+
